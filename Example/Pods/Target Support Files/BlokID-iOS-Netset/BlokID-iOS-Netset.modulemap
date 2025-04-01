@@ -1,0 +1,6 @@
+framework module BlokID_iOS_Netset {
+  umbrella header "BlokID-iOS-Netset-umbrella.h"
+
+  export *
+  module * { export * }
+}

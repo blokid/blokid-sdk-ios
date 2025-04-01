@@ -1,0 +1,16 @@
+PODS:
+  - BlokID-iOS-Netset (1.0.0)
+
+DEPENDENCIES:
+  - BlokID-iOS-Netset
+
+SPEC REPOS:
+  trunk:
+    - BlokID-iOS-Netset
+
+SPEC CHECKSUMS:
+  BlokID-iOS-Netset: 4cb12a9abd1ca32c974faec3972aae4e608909de
+
+PODFILE CHECKSUM: ff938204d1a311b91816aeab90ec1279f5b28427
+
+COCOAPODS: 1.16.2
